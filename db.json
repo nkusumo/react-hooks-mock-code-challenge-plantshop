@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "String of Hearts",
+      "image": "https://cdn.shopify.com/s/files/1/2198/4603/files/68_grande.JPG?v=1548237720",
+      "price": "17.38",
+      "id": 8
+    },
+    {
+      "name": "String of Hearts",
+      "image": "https://cdn.shopify.com/s/files/1/2198/4603/files/68_grande.JPG?v=1548237720",
+      "price": "17.38",
+      "id": 9
     }
   ]
 }
